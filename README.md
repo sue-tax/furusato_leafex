@@ -12,6 +12,11 @@ javaの実行環境が必要です。
 
 https://www.oracle.com/jp/java/technologies/downloads/
 
+Windows11では、自動でPathの設定がされる。
+
+Windows10などでは、Pathの設定が必要です。
+
+
 ### ダウンロード
 
 ファイルを３つ（leafex_ver002.jar,ふるさと納税_ver002.mm,ふるさと納税入出力_ver002.xlsm）ダウンロードしてください。
